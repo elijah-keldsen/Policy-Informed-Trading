@@ -1,0 +1,5 @@
+Portfolio,IS Alpha,OOS Alpha,Alpha Deg,IS Sharpe,OOS Sharpe,Sharpe Deg,IS Sig,OOS Sig,Quality
+High Relevance (>=0.70),8.92%,10.82%,-21.3%,0.720,0.847,-17.6%,✓,✓,EXCELLENT (Improved OOS)
+High Relevance (>=0.75),9.11%,10.73%,-17.7%,0.733,0.839,-14.5%,✓,✓,EXCELLENT (Improved OOS)
+Senate Elite (>=0.75),2.05%,18.60%,-806.3%,0.323,1.082,-235.4%,✗,✓,EXCELLENT (Improved OOS)
+All Buys,1.41%,5.24%,-272.0%,0.362,0.626,-72.8%,✗,✗,EXCELLENT (Improved OOS)
