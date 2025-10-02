@@ -22,7 +22,7 @@ The methodology is academically rigorous (calendar-time portfolios, Fama-French 
 
 ### Prerequisites
 ```bash
-pip install pandas numpy yfinance scipy matplotlib seaborn
+pip install pandas numpy yfinance scipy matplotlib seaborn scikit-learn snorkel
 ```
 
 ### Required Data Files
