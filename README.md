@@ -38,6 +38,7 @@ pip install pandas numpy yfinance scipy matplotlib seaborn
 3. **Price Data** (optional but recommended): `russell_3000_daily.parquet`
    - Russell 3000 daily price data for accurate returns
    - Without this, script downloads SPY from Yahoo Finance (slower, less comprehensive)
+   - Must be obtained externally.
 
 ### Directory Structure
 ```
